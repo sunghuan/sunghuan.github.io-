@@ -1,0 +1,25 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.banner {
+    background-color: hsl(258, 43%, 46%);
+    color: rgb(250, 250, 251);
+    margin: top 75px;
+    width: 100%;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small-holly {
+    height: 400px;
+    width: 400px;
+}
+
+#holly {
+    color:rgb(214, 91, 214);
+    font-size: 70px;
+}
+
+.bold {
+font-weight: 900;
+}
